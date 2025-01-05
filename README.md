@@ -6,11 +6,7 @@
 
 Welcome to the **Tetris Simulation Game**! 🎮 This is a Python implementation of a simplified Tetris game engine that simulates piece placement, gravity, and row clearing. 🧩
 
-
-
-https://github.com/user-attachments/assets/ec2a8501-9138-4d2d-a239-90196f2645bb
-
-
+https://github.com/user-attachments/assets/6ee62890-9512-4da1-a52c-a3b1ddd92d77
 
 ---
 
